@@ -8,9 +8,11 @@
     "percentToQualify": "67",
     "password": "6742",
     "records": ["cachorro orelha 100%"]
-   ["user": "neginho games",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+  "records": [
+        {
+            "user": "cachorro orelha",
+            "link": "https://www.youtube.com/watch?v=obmmhFMo1Uk&list=RDobmmhFMo1Uk&start_radio=1",
+            "percent": 67,
             "hz": 67
     ]
 }
